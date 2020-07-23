@@ -9,7 +9,7 @@ Use the following link to copy the repository
 
 1) https://github.com/himalhack/Python-Square-Root-Finder.git
 2) cd Python-Square-Root-Finder
-3) pip install tkinter
+3) pip install requirements.txt -r
 4) python main.py
 
 ## Usage
